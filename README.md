@@ -10,3 +10,5 @@ Instructions
 
 Made a copy of the .env.example file and name it .env. 
 Fill the needed data into the .env file.
+
+Run `npm install` and next node api.js
